@@ -1,5 +1,5 @@
 # Solar-System-Symulation
-
+My introductory project to learn OpenGL. Some used code is from learnopengl.com and youtube.com/@VictorGordan OpenGl tutorial.
 
 ## Running
 
