@@ -87,3 +87,6 @@ You can load your own `.obj` files by placing them in the `resources/models/` di
     - `images/`: Textures applied to the planets and the sun.
     - `models/`: 3D `.obj` models.
 
+---
+
+**Author**: [Krzysztof Pankiewicz](https://www.linkedin.com/in/krzysztof-pankiewicz-71424b329/)
